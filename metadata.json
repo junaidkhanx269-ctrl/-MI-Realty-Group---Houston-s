@@ -1,0 +1,6 @@
+{
+  "name": "MI Realty Group - Houston's New Build Experts",
+  "description": "Luxury real estate website for MI Realty Group featuring exclusive Sugar Land new builds, closing cost incentives, private tours, and VIP video walkthroughs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
